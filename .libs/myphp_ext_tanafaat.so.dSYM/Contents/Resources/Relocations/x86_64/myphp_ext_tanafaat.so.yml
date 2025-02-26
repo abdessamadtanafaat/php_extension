@@ -1,0 +1,11 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '.libs/myphp_ext_tanafaat.so'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _zif_get_abdessamad, symObjAddr: 0x0, symBinAddr: 0xEA0, symSize: 0x60 }
+  - { offset: 0x4D, size: 0x8, addend: 0x0, symName: _myphp_ext_tanafaat_module_entry, symObjAddr: 0x120, symBinAddr: 0x2010, symSize: 0x0 }
+  - { offset: 0x1F79, size: 0x8, addend: 0x0, symName: _myphp_ext_tanafaat_functions, symObjAddr: 0xC0, symBinAddr: 0x1010, symSize: 0x0 }
+  - { offset: 0x1FAA, size: 0x8, addend: 0x0, symName: _arginfo_get_abdessamad, symObjAddr: 0x1D0, symBinAddr: 0xF80, symSize: 0x0 }
+  - { offset: 0x2066, size: 0x8, addend: 0x0, symName: _zif_get_abdessamad, symObjAddr: 0x0, symBinAddr: 0xEA0, symSize: 0x60 }
+  - { offset: 0x2167, size: 0x8, addend: 0x0, symName: _get_module, symObjAddr: 0x60, symBinAddr: 0xF00, symSize: 0xD }
+...
